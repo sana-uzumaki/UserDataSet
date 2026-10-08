@@ -1,0 +1,1202 @@
+[
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000000",
+      "attributes": {
+        "name": "Nike",
+        "bundleId": "com.nike.NikeMobile",
+        "sku": "NIKE-IOS-001",
+        "primaryLocale": "en-US",
+        "downloads": 25507,
+        "description": "Nike is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000000"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000001",
+      "attributes": {
+        "name": "Apple Rewards",
+        "bundleId": "com.random.apple1",
+        "sku": "APPLE-IOS-002",
+        "primaryLocale": "en-US",
+        "downloads": 95628,
+        "description": "Apple Rewards is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000001"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000002",
+      "attributes": {
+        "name": "Microsoft Support",
+        "bundleId": "com.random.microsoft2",
+        "sku": "MICROSOFT-IOS-003",
+        "primaryLocale": "en-US",
+        "downloads": 61831,
+        "description": "Microsoft Support is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000002"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000003",
+      "attributes": {
+        "name": "Samsung Shopping",
+        "bundleId": "com.random.samsung3",
+        "sku": "SAMSUNG-IOS-004",
+        "primaryLocale": "en-US",
+        "downloads": 196722,
+        "description": "Samsung Shopping is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000003"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000004",
+      "attributes": {
+        "name": "Spotify",
+        "bundleId": "com.spotify.NikeMobile",
+        "sku": "SPOTIFY-IOS-005",
+        "primaryLocale": "en-US",
+        "downloads": 6152,
+        "description": "Spotify is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000004"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000005",
+      "attributes": {
+        "name": "Netflix Support",
+        "bundleId": "com.random.netflix5",
+        "sku": "NETFLIX-IOS-006",
+        "primaryLocale": "en-US",
+        "downloads": 529573,
+        "description": "Netflix Support is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000005"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000006",
+      "attributes": {
+        "name": "Amazon Support",
+        "bundleId": "com.random.amazon6",
+        "sku": "AMAZON-IOS-007",
+        "primaryLocale": "en-US",
+        "downloads": 6709,
+        "description": "Amazon Support is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000006"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000007",
+      "attributes": {
+        "name": "Google Rewards",
+        "bundleId": "com.random.google7",
+        "sku": "GOOGLE-IOS-008",
+        "primaryLocale": "en-US",
+        "downloads": 3953419,
+        "description": "Google Rewards is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000007"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000008",
+      "attributes": {
+        "name": "Tesla",
+        "bundleId": "com.tesla.NikeMobile",
+        "sku": "TESLA-IOS-009",
+        "primaryLocale": "en-US",
+        "downloads": 696511,
+        "description": "Tesla is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000008"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000009",
+      "attributes": {
+        "name": "Adidas Support",
+        "bundleId": "com.random.adidas9",
+        "sku": "ADIDAS-IOS-010",
+        "primaryLocale": "en-US",
+        "downloads": 9591358,
+        "description": "Adidas Support is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000009"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000010",
+      "attributes": {
+        "name": "Nike Deals",
+        "bundleId": "com.random.nike10",
+        "sku": "NIKE-IOS-011",
+        "primaryLocale": "en-US",
+        "downloads": 402625,
+        "description": "Nike Deals is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000010"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000011",
+      "attributes": {
+        "name": "Apple Deals",
+        "bundleId": "com.random.apple11",
+        "sku": "APPLE-IOS-012",
+        "primaryLocale": "en-US",
+        "downloads": 65206,
+        "description": "Apple Deals is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000011"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000012",
+      "attributes": {
+        "name": "Microsoft",
+        "bundleId": "com.microsoft.NikeMobile",
+        "sku": "MICROSOFT-IOS-013",
+        "primaryLocale": "en-US",
+        "downloads": 18608589,
+        "description": "Microsoft is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000012"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000013",
+      "attributes": {
+        "name": "Samsung Deals",
+        "bundleId": "com.random.samsung13",
+        "sku": "SAMSUNG-IOS-014",
+        "primaryLocale": "en-US",
+        "downloads": 4112,
+        "description": "Samsung Deals is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000013"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000014",
+      "attributes": {
+        "name": "Spotify Shopping",
+        "bundleId": "com.random.spotify14",
+        "sku": "SPOTIFY-IOS-015",
+        "primaryLocale": "en-US",
+        "downloads": 3404,
+        "description": "Spotify Shopping is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000014"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000015",
+      "attributes": {
+        "name": "Netflix Shopping",
+        "bundleId": "com.random.netflix15",
+        "sku": "NETFLIX-IOS-016",
+        "primaryLocale": "en-US",
+        "downloads": 91168,
+        "description": "Netflix Shopping is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000015"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000016",
+      "attributes": {
+        "name": "Amazon",
+        "bundleId": "com.amazon.NikeMobile",
+        "sku": "AMAZON-IOS-017",
+        "primaryLocale": "en-US",
+        "downloads": 335474,
+        "description": "Amazon is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000016"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000017",
+      "attributes": {
+        "name": "Google Shopping",
+        "bundleId": "com.random.google17",
+        "sku": "GOOGLE-IOS-018",
+        "primaryLocale": "en-US",
+        "downloads": 70127,
+        "description": "Google Shopping is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000017"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000018",
+      "attributes": {
+        "name": "Tesla Deals",
+        "bundleId": "com.random.tesla18",
+        "sku": "TESLA-IOS-019",
+        "primaryLocale": "en-US",
+        "downloads": 4197767,
+        "description": "Tesla Deals is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000018"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000019",
+      "attributes": {
+        "name": "Adidas Shopping",
+        "bundleId": "com.random.adidas19",
+        "sku": "ADIDAS-IOS-020",
+        "primaryLocale": "en-US",
+        "downloads": 474195,
+        "description": "Adidas Shopping is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000019"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000020",
+      "attributes": {
+        "name": "Nike",
+        "bundleId": "com.nike.NikeMobile",
+        "sku": "NIKE-IOS-021",
+        "primaryLocale": "en-US",
+        "downloads": 6160,
+        "description": "Nike is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000020"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000021",
+      "attributes": {
+        "name": "Apple Shopping",
+        "bundleId": "com.random.apple21",
+        "sku": "APPLE-IOS-022",
+        "primaryLocale": "en-US",
+        "downloads": 417680,
+        "description": "Apple Shopping is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000021"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000022",
+      "attributes": {
+        "name": "Microsoft Deals",
+        "bundleId": "com.random.microsoft22",
+        "sku": "MICROSOFT-IOS-023",
+        "primaryLocale": "en-US",
+        "downloads": 36640406,
+        "description": "Microsoft Deals is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000022"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000023",
+      "attributes": {
+        "name": "Samsung Deals",
+        "bundleId": "com.random.samsung23",
+        "sku": "SAMSUNG-IOS-024",
+        "primaryLocale": "en-US",
+        "downloads": 66852,
+        "description": "Samsung Deals is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000023"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000024",
+      "attributes": {
+        "name": "Spotify",
+        "bundleId": "com.spotify.NikeMobile",
+        "sku": "SPOTIFY-IOS-025",
+        "primaryLocale": "en-US",
+        "downloads": 25732,
+        "description": "Spotify is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000024"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000025",
+      "attributes": {
+        "name": "Netflix Deals",
+        "bundleId": "com.random.netflix25",
+        "sku": "NETFLIX-IOS-026",
+        "primaryLocale": "en-US",
+        "downloads": 33175,
+        "description": "Netflix Deals is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000025"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000026",
+      "attributes": {
+        "name": "Amazon Support",
+        "bundleId": "com.random.amazon26",
+        "sku": "AMAZON-IOS-027",
+        "primaryLocale": "en-US",
+        "downloads": 12430082,
+        "description": "Amazon Support is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000026"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000027",
+      "attributes": {
+        "name": "Google Deals",
+        "bundleId": "com.random.google27",
+        "sku": "GOOGLE-IOS-028",
+        "primaryLocale": "en-US",
+        "downloads": 4057147,
+        "description": "Google Deals is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000027"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000028",
+      "attributes": {
+        "name": "Tesla",
+        "bundleId": "com.tesla.NikeMobile",
+        "sku": "TESLA-IOS-029",
+        "primaryLocale": "en-US",
+        "downloads": 582404,
+        "description": "Tesla is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000028"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000029",
+      "attributes": {
+        "name": "Adidas Rewards",
+        "bundleId": "com.random.adidas29",
+        "sku": "ADIDAS-IOS-030",
+        "primaryLocale": "en-US",
+        "downloads": 31307325,
+        "description": "Adidas Rewards is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000029"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000030",
+      "attributes": {
+        "name": "Nike Rewards",
+        "bundleId": "com.random.nike30",
+        "sku": "NIKE-IOS-031",
+        "primaryLocale": "en-US",
+        "downloads": 5438,
+        "description": "Nike Rewards is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000030"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000031",
+      "attributes": {
+        "name": "Apple Support",
+        "bundleId": "com.random.apple31",
+        "sku": "APPLE-IOS-032",
+        "primaryLocale": "en-US",
+        "downloads": 55226,
+        "description": "Apple Support is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000031"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000032",
+      "attributes": {
+        "name": "Microsoft",
+        "bundleId": "com.microsoft.NikeMobile",
+        "sku": "MICROSOFT-IOS-033",
+        "primaryLocale": "en-US",
+        "downloads": 1916,
+        "description": "Microsoft is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000032"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000033",
+      "attributes": {
+        "name": "Samsung Rewards",
+        "bundleId": "com.random.samsung33",
+        "sku": "SAMSUNG-IOS-034",
+        "primaryLocale": "en-US",
+        "downloads": 507362,
+        "description": "Samsung Rewards is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000033"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000034",
+      "attributes": {
+        "name": "Spotify Deals",
+        "bundleId": "com.random.spotify34",
+        "sku": "SPOTIFY-IOS-035",
+        "primaryLocale": "en-US",
+        "downloads": 549,
+        "description": "Spotify Deals is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000034"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000035",
+      "attributes": {
+        "name": "Netflix Shopping",
+        "bundleId": "com.random.netflix35",
+        "sku": "NETFLIX-IOS-036",
+        "primaryLocale": "en-US",
+        "downloads": 12757992,
+        "description": "Netflix Shopping is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000035"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000036",
+      "attributes": {
+        "name": "Amazon",
+        "bundleId": "com.amazon.NikeMobile",
+        "sku": "AMAZON-IOS-037",
+        "primaryLocale": "en-US",
+        "downloads": 9867,
+        "description": "Amazon is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000036"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000037",
+      "attributes": {
+        "name": "Google Support",
+        "bundleId": "com.random.google37",
+        "sku": "GOOGLE-IOS-038",
+        "primaryLocale": "en-US",
+        "downloads": 9719,
+        "description": "Google Support is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000037"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000038",
+      "attributes": {
+        "name": "Tesla Shopping",
+        "bundleId": "com.random.tesla38",
+        "sku": "TESLA-IOS-039",
+        "primaryLocale": "en-US",
+        "downloads": 120849,
+        "description": "Tesla Shopping is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000038"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000039",
+      "attributes": {
+        "name": "Adidas Deals",
+        "bundleId": "com.random.adidas39",
+        "sku": "ADIDAS-IOS-040",
+        "primaryLocale": "en-US",
+        "downloads": 52288,
+        "description": "Adidas Deals is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000039"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000040",
+      "attributes": {
+        "name": "Nike",
+        "bundleId": "com.nike.NikeMobile",
+        "sku": "NIKE-IOS-041",
+        "primaryLocale": "en-US",
+        "downloads": 53745,
+        "description": "Nike is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000040"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000041",
+      "attributes": {
+        "name": "Apple Rewards",
+        "bundleId": "com.random.apple41",
+        "sku": "APPLE-IOS-042",
+        "primaryLocale": "en-US",
+        "downloads": 218447,
+        "description": "Apple Rewards is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000041"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000042",
+      "attributes": {
+        "name": "Microsoft Support",
+        "bundleId": "com.random.microsoft42",
+        "sku": "MICROSOFT-IOS-043",
+        "primaryLocale": "en-US",
+        "downloads": 25255,
+        "description": "Microsoft Support is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000042"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000043",
+      "attributes": {
+        "name": "Samsung Deals",
+        "bundleId": "com.random.samsung43",
+        "sku": "SAMSUNG-IOS-044",
+        "primaryLocale": "en-US",
+        "downloads": 6566,
+        "description": "Samsung Deals is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000043"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000044",
+      "attributes": {
+        "name": "Spotify",
+        "bundleId": "com.spotify.NikeMobile",
+        "sku": "SPOTIFY-IOS-045",
+        "primaryLocale": "en-US",
+        "downloads": 340121,
+        "description": "Spotify is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000044"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000045",
+      "attributes": {
+        "name": "Netflix Shopping",
+        "bundleId": "com.random.netflix45",
+        "sku": "NETFLIX-IOS-046",
+        "primaryLocale": "en-US",
+        "downloads": 14735850,
+        "description": "Netflix Shopping is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000045"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000046",
+      "attributes": {
+        "name": "Amazon Rewards",
+        "bundleId": "com.random.amazon46",
+        "sku": "AMAZON-IOS-047",
+        "primaryLocale": "en-US",
+        "downloads": 3153309,
+        "description": "Amazon Rewards is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000046"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000047",
+      "attributes": {
+        "name": "Google Shopping",
+        "bundleId": "com.random.google47",
+        "sku": "GOOGLE-IOS-048",
+        "primaryLocale": "en-US",
+        "downloads": 20744697,
+        "description": "Google Shopping is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000047"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000048",
+      "attributes": {
+        "name": "Tesla",
+        "bundleId": "com.tesla.NikeMobile",
+        "sku": "TESLA-IOS-049",
+        "primaryLocale": "en-US",
+        "downloads": 1614,
+        "description": "Tesla is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000048"
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "data": {
+      "type": "apps",
+      "id": "700000049",
+      "attributes": {
+        "name": "Adidas Deals",
+        "bundleId": "com.random.adidas49",
+        "sku": "ADIDAS-IOS-050",
+        "primaryLocale": "en-US",
+        "downloads": 31884486,
+        "description": "Adidas Deals is a mobile application providing services and features for its users."
+      },
+      "relationships": {
+        "appInfos": {
+          "data": [
+            {
+              "type": "appInfos",
+              "id": "800000049"
+            }
+          ]
+        }
+      }
+    }
+  }
+]

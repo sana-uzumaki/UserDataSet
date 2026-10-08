@@ -1,0 +1,852 @@
+[
+  {
+    "data": {
+      "id": "900000000",
+      "name": "Nike",
+      "username": "nike",
+      "description": "Official Nike account.",
+      "profile_image_url": "https://example.com/x/1.jpg",
+      "created_at": "2021-12-27T00:00:00Z",
+      "verified": true,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 1807910,
+        "following_count": 322,
+        "posts_count": 24856
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000001",
+      "name": "Apple Support",
+      "username": "apple_help",
+      "description": "Unofficial Apple account.",
+      "profile_image_url": "https://example.com/x/2.jpg",
+      "created_at": "2022-09-29T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 4114158,
+        "following_count": 1351,
+        "posts_count": 119
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000002",
+      "name": "Microsoft Deals",
+      "username": "microsoft",
+      "description": "Unofficial Microsoft account.",
+      "profile_image_url": "https://example.com/x/3.jpg",
+      "created_at": "2020-01-15T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 2386301,
+        "following_count": 1044,
+        "posts_count": 1401
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000003",
+      "name": "Samsung Support",
+      "username": "the_samsung",
+      "description": "Unofficial Samsung account.",
+      "profile_image_url": "https://example.com/x/4.jpg",
+      "created_at": "2024-06-01T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 3471576,
+        "following_count": 4998,
+        "posts_count": 41871
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000004",
+      "name": "Spotify",
+      "username": "spotify",
+      "description": "Official Spotify account.",
+      "profile_image_url": "https://example.com/x/5.jpg",
+      "created_at": "2025-01-14T00:00:00Z",
+      "verified": true,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 8157016,
+        "following_count": 4274,
+        "posts_count": 43818
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000005",
+      "name": "Netflix Support",
+      "username": "netflix247",
+      "description": "Unofficial Netflix account.",
+      "profile_image_url": "https://example.com/x/6.jpg",
+      "created_at": "2026-05-19T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 4394739,
+        "following_count": 1403,
+        "posts_count": 21958
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000006",
+      "name": "Amazon Deals",
+      "username": "official_amazon",
+      "description": "Unofficial Amazon account.",
+      "profile_image_url": "https://example.com/x/7.jpg",
+      "created_at": "2026-01-17T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 6099775,
+        "following_count": 115,
+        "posts_count": 23073
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000007",
+      "name": "Google Official",
+      "username": "the_google",
+      "description": "Unofficial Google account.",
+      "profile_image_url": "https://example.com/x/8.jpg",
+      "created_at": "2025-01-06T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 7458471,
+        "following_count": 3111,
+        "posts_count": 49270
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000008",
+      "name": "Tesla",
+      "username": "tesla",
+      "description": "Official Tesla account.",
+      "profile_image_url": "https://example.com/x/9.jpg",
+      "created_at": "2022-12-12T00:00:00Z",
+      "verified": true,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 4563225,
+        "following_count": 3567,
+        "posts_count": 41577
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000009",
+      "name": "Adidas Support",
+      "username": "adidas_official",
+      "description": "Unofficial Adidas account.",
+      "profile_image_url": "https://example.com/x/10.jpg",
+      "created_at": "2023-11-10T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 144633,
+        "following_count": 4399,
+        "posts_count": 24747
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000010",
+      "name": "Nike India",
+      "username": "nike_deals",
+      "description": "Unofficial Nike account.",
+      "profile_image_url": "https://example.com/x/11.jpg",
+      "created_at": "2022-11-27T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 400167,
+        "following_count": 1352,
+        "posts_count": 27472
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000011",
+      "name": "Apple Support",
+      "username": "apple_official",
+      "description": "Unofficial Apple account.",
+      "profile_image_url": "https://example.com/x/12.jpg",
+      "created_at": "2022-06-08T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 2452809,
+        "following_count": 2395,
+        "posts_count": 25520
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000012",
+      "name": "Microsoft",
+      "username": "microsoft",
+      "description": "Official Microsoft account.",
+      "profile_image_url": "https://example.com/x/13.jpg",
+      "created_at": "2023-11-06T00:00:00Z",
+      "verified": true,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 1042122,
+        "following_count": 1124,
+        "posts_count": 29811
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000013",
+      "name": "Samsung India",
+      "username": "the_samsung",
+      "description": "Unofficial Samsung account.",
+      "profile_image_url": "https://example.com/x/14.jpg",
+      "created_at": "2024-11-06T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 5451184,
+        "following_count": 4243,
+        "posts_count": 33742
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000014",
+      "name": "Spotify Deals",
+      "username": "spotify247",
+      "description": "Unofficial Spotify account.",
+      "profile_image_url": "https://example.com/x/15.jpg",
+      "created_at": "2022-01-18T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 8495329,
+        "following_count": 2002,
+        "posts_count": 13331
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000015",
+      "name": "Netflix Support",
+      "username": "netflix247",
+      "description": "Unofficial Netflix account.",
+      "profile_image_url": "https://example.com/x/16.jpg",
+      "created_at": "2021-03-06T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 4501484,
+        "following_count": 4635,
+        "posts_count": 15144
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000016",
+      "name": "Amazon",
+      "username": "amazon",
+      "description": "Official Amazon account.",
+      "profile_image_url": "https://example.com/x/17.jpg",
+      "created_at": "2020-07-08T00:00:00Z",
+      "verified": true,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 8120485,
+        "following_count": 4042,
+        "posts_count": 47888
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000017",
+      "name": "Google India",
+      "username": "google_deals",
+      "description": "Unofficial Google account.",
+      "profile_image_url": "https://example.com/x/18.jpg",
+      "created_at": "2020-05-31T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 101002,
+        "following_count": 4935,
+        "posts_count": 39931
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000018",
+      "name": "Tesla India",
+      "username": "tesla_help",
+      "description": "Unofficial Tesla account.",
+      "profile_image_url": "https://example.com/x/19.jpg",
+      "created_at": "2021-06-06T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 7534755,
+        "following_count": 2820,
+        "posts_count": 49405
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000019",
+      "name": "Adidas India",
+      "username": "official_adidas",
+      "description": "Unofficial Adidas account.",
+      "profile_image_url": "https://example.com/x/20.jpg",
+      "created_at": "2023-03-22T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 6183692,
+        "following_count": 576,
+        "posts_count": 19402
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000020",
+      "name": "Nike",
+      "username": "nike",
+      "description": "Official Nike account.",
+      "profile_image_url": "https://example.com/x/21.jpg",
+      "created_at": "2022-05-07T00:00:00Z",
+      "verified": true,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 1803978,
+        "following_count": 3823,
+        "posts_count": 37596
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000021",
+      "name": "Apple Deals",
+      "username": "the_apple",
+      "description": "Unofficial Apple account.",
+      "profile_image_url": "https://example.com/x/22.jpg",
+      "created_at": "2022-11-10T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 4168683,
+        "following_count": 3741,
+        "posts_count": 32843
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000022",
+      "name": "Microsoft Support",
+      "username": "microsoft_support",
+      "description": "Unofficial Microsoft account.",
+      "profile_image_url": "https://example.com/x/23.jpg",
+      "created_at": "2020-06-24T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 8009130,
+        "following_count": 4393,
+        "posts_count": 2812
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000023",
+      "name": "Samsung Support",
+      "username": "samsung_india",
+      "description": "Unofficial Samsung account.",
+      "profile_image_url": "https://example.com/x/24.jpg",
+      "created_at": "2025-07-04T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 234839,
+        "following_count": 2636,
+        "posts_count": 47841
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000024",
+      "name": "Spotify",
+      "username": "spotify",
+      "description": "Official Spotify account.",
+      "profile_image_url": "https://example.com/x/25.jpg",
+      "created_at": "2023-10-07T00:00:00Z",
+      "verified": true,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 729237,
+        "following_count": 4983,
+        "posts_count": 860
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000025",
+      "name": "Netflix Support",
+      "username": "netflix_india",
+      "description": "Unofficial Netflix account.",
+      "profile_image_url": "https://example.com/x/26.jpg",
+      "created_at": "2024-12-15T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 3256738,
+        "following_count": 2490,
+        "posts_count": 32767
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000026",
+      "name": "Amazon India",
+      "username": "amazon_official",
+      "description": "Unofficial Amazon account.",
+      "profile_image_url": "https://example.com/x/27.jpg",
+      "created_at": "2021-03-10T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 8737006,
+        "following_count": 565,
+        "posts_count": 41657
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000027",
+      "name": "Google India",
+      "username": "google",
+      "description": "Unofficial Google account.",
+      "profile_image_url": "https://example.com/x/28.jpg",
+      "created_at": "2020-09-22T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 8275838,
+        "following_count": 1112,
+        "posts_count": 12754
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000028",
+      "name": "Tesla",
+      "username": "tesla",
+      "description": "Official Tesla account.",
+      "profile_image_url": "https://example.com/x/29.jpg",
+      "created_at": "2019-02-14T00:00:00Z",
+      "verified": true,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 6916956,
+        "following_count": 2647,
+        "posts_count": 35853
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000029",
+      "name": "Adidas India",
+      "username": "adidas_india",
+      "description": "Unofficial Adidas account.",
+      "profile_image_url": "https://example.com/x/30.jpg",
+      "created_at": "2020-04-06T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 4741368,
+        "following_count": 2670,
+        "posts_count": 13904
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000030",
+      "name": "Nike Official",
+      "username": "the_nike",
+      "description": "Unofficial Nike account.",
+      "profile_image_url": "https://example.com/x/31.jpg",
+      "created_at": "2023-11-16T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 6555413,
+        "following_count": 4601,
+        "posts_count": 12393
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000031",
+      "name": "Apple Official",
+      "username": "apple_deals",
+      "description": "Unofficial Apple account.",
+      "profile_image_url": "https://example.com/x/32.jpg",
+      "created_at": "2024-02-28T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 5921405,
+        "following_count": 4530,
+        "posts_count": 40289
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000032",
+      "name": "Microsoft",
+      "username": "microsoft",
+      "description": "Official Microsoft account.",
+      "profile_image_url": "https://example.com/x/33.jpg",
+      "created_at": "2020-03-09T00:00:00Z",
+      "verified": true,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 8532550,
+        "following_count": 787,
+        "posts_count": 38861
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000033",
+      "name": "Samsung India",
+      "username": "samsung_india",
+      "description": "Unofficial Samsung account.",
+      "profile_image_url": "https://example.com/x/34.jpg",
+      "created_at": "2020-07-29T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 90175,
+        "following_count": 1341,
+        "posts_count": 5666
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000034",
+      "name": "Spotify India",
+      "username": "spotify_india",
+      "description": "Unofficial Spotify account.",
+      "profile_image_url": "https://example.com/x/35.jpg",
+      "created_at": "2019-08-19T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 2546061,
+        "following_count": 947,
+        "posts_count": 30244
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000035",
+      "name": "Netflix Official",
+      "username": "the_netflix",
+      "description": "Unofficial Netflix account.",
+      "profile_image_url": "https://example.com/x/36.jpg",
+      "created_at": "2022-10-30T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 2400251,
+        "following_count": 742,
+        "posts_count": 44264
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000036",
+      "name": "Amazon",
+      "username": "amazon",
+      "description": "Official Amazon account.",
+      "profile_image_url": "https://example.com/x/37.jpg",
+      "created_at": "2025-03-03T00:00:00Z",
+      "verified": true,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 1084857,
+        "following_count": 913,
+        "posts_count": 16372
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000037",
+      "name": "Google Support",
+      "username": "google_support",
+      "description": "Unofficial Google account.",
+      "profile_image_url": "https://example.com/x/38.jpg",
+      "created_at": "2025-03-24T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 6170735,
+        "following_count": 3046,
+        "posts_count": 41041
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000038",
+      "name": "Tesla Deals",
+      "username": "tesla_help",
+      "description": "Unofficial Tesla account.",
+      "profile_image_url": "https://example.com/x/39.jpg",
+      "created_at": "2019-01-12T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 4935765,
+        "following_count": 664,
+        "posts_count": 24816
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000039",
+      "name": "Adidas Official",
+      "username": "ad1das",
+      "description": "Unofficial Adidas account.",
+      "profile_image_url": "https://example.com/x/40.jpg",
+      "created_at": "2023-01-07T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 7171100,
+        "following_count": 3949,
+        "posts_count": 18576
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000040",
+      "name": "Nike",
+      "username": "nike",
+      "description": "Official Nike account.",
+      "profile_image_url": "https://example.com/x/41.jpg",
+      "created_at": "2023-02-06T00:00:00Z",
+      "verified": true,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 3088050,
+        "following_count": 835,
+        "posts_count": 8947
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000041",
+      "name": "Apple Support",
+      "username": "apple_deals",
+      "description": "Unofficial Apple account.",
+      "profile_image_url": "https://example.com/x/42.jpg",
+      "created_at": "2021-11-09T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 6060120,
+        "following_count": 1075,
+        "posts_count": 16529
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000042",
+      "name": "Microsoft Support",
+      "username": "microsoft247",
+      "description": "Unofficial Microsoft account.",
+      "profile_image_url": "https://example.com/x/43.jpg",
+      "created_at": "2021-08-20T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 90770,
+        "following_count": 776,
+        "posts_count": 7431
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000043",
+      "name": "Samsung Official",
+      "username": "samsung_support",
+      "description": "Unofficial Samsung account.",
+      "profile_image_url": "https://example.com/x/44.jpg",
+      "created_at": "2021-09-09T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 72687,
+        "following_count": 3427,
+        "posts_count": 8506
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000044",
+      "name": "Spotify",
+      "username": "spotify",
+      "description": "Official Spotify account.",
+      "profile_image_url": "https://example.com/x/45.jpg",
+      "created_at": "2019-04-08T00:00:00Z",
+      "verified": true,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 2048087,
+        "following_count": 4670,
+        "posts_count": 25810
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000045",
+      "name": "Netflix Official",
+      "username": "netflix247",
+      "description": "Unofficial Netflix account.",
+      "profile_image_url": "https://example.com/x/46.jpg",
+      "created_at": "2025-02-20T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 5675357,
+        "following_count": 195,
+        "posts_count": 43629
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000046",
+      "name": "Amazon Official",
+      "username": "official_amazon",
+      "description": "Unofficial Amazon account.",
+      "profile_image_url": "https://example.com/x/47.jpg",
+      "created_at": "2020-09-22T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 2855711,
+        "following_count": 397,
+        "posts_count": 36046
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000047",
+      "name": "Google India",
+      "username": "official_google",
+      "description": "Unofficial Google account.",
+      "profile_image_url": "https://example.com/x/48.jpg",
+      "created_at": "2021-06-04T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 1505762,
+        "following_count": 3608,
+        "posts_count": 2810
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000048",
+      "name": "Tesla",
+      "username": "tesla",
+      "description": "Official Tesla account.",
+      "profile_image_url": "https://example.com/x/49.jpg",
+      "created_at": "2024-11-21T00:00:00Z",
+      "verified": true,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 1655427,
+        "following_count": 425,
+        "posts_count": 26996
+      }
+    }
+  },
+  {
+    "data": {
+      "id": "900000049",
+      "name": "Adidas Official",
+      "username": "adidas_help",
+      "description": "Unofficial Adidas account.",
+      "profile_image_url": "https://example.com/x/50.jpg",
+      "created_at": "2026-08-18T00:00:00Z",
+      "verified": false,
+      "protected": false,
+      "public_metrics": {
+        "followers_count": 1744700,
+        "following_count": 725,
+        "posts_count": 2861
+      }
+    }
+  }
+]

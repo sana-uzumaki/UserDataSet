@@ -1,0 +1,902 @@
+[
+  {
+    "id": "100000000000000",
+    "name": "Nike",
+    "username": "nike",
+    "about": "Official Nike Facebook page.",
+    "website": "https://www.nike.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/1.jpg"
+      }
+    },
+    "followers_count": 49560915,
+    "following_count": 1637,
+    "posts_count": 3001,
+    "verified": true
+  },
+  {
+    "id": "100000000000001",
+    "name": "Apple Support",
+    "username": "apple_help",
+    "about": "Customer support Apple Facebook page.",
+    "website": "https://www.apple.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/2.jpg"
+      }
+    },
+    "followers_count": 30441734,
+    "following_count": 2211,
+    "posts_count": 493,
+    "verified": false
+  },
+  {
+    "id": "100000000000002",
+    "name": "Microsoft Deals",
+    "username": "microsoft",
+    "about": "Customer support Microsoft Facebook page.",
+    "website": "https://www.microsoft.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/3.jpg"
+      }
+    },
+    "followers_count": 32401394,
+    "following_count": 3956,
+    "posts_count": 8535,
+    "verified": false
+  },
+  {
+    "id": "100000000000003",
+    "name": "Samsung Support",
+    "username": "the_samsung",
+    "about": "Customer support Samsung Facebook page.",
+    "website": "https://www.samsung.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/4.jpg"
+      }
+    },
+    "followers_count": 15654476,
+    "following_count": 1191,
+    "posts_count": 7509,
+    "verified": false
+  },
+  {
+    "id": "100000000000004",
+    "name": "Spotify",
+    "username": "spotify",
+    "about": "Official Spotify Facebook page.",
+    "website": "https://www.spotify.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/5.jpg"
+      }
+    },
+    "followers_count": 32611615,
+    "following_count": 3056,
+    "posts_count": 8217,
+    "verified": true
+  },
+  {
+    "id": "100000000000005",
+    "name": "Netflix Support",
+    "username": "netflix247",
+    "about": "Customer support Netflix Facebook page.",
+    "website": "https://www.netflix.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/6.jpg"
+      }
+    },
+    "followers_count": 5472829,
+    "following_count": 3971,
+    "posts_count": 4406,
+    "verified": false
+  },
+  {
+    "id": "100000000000006",
+    "name": "Amazon Deals",
+    "username": "official_amazon",
+    "about": "Customer support Amazon Facebook page.",
+    "website": "https://www.amazon.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/7.jpg"
+      }
+    },
+    "followers_count": 7864383,
+    "following_count": 542,
+    "posts_count": 9240,
+    "verified": false
+  },
+  {
+    "id": "100000000000007",
+    "name": "Google Official",
+    "username": "the_google",
+    "about": "Customer support Google Facebook page.",
+    "website": "https://www.google.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/8.jpg"
+      }
+    },
+    "followers_count": 42788573,
+    "following_count": 818,
+    "posts_count": 2488,
+    "verified": false
+  },
+  {
+    "id": "100000000000008",
+    "name": "Tesla",
+    "username": "tesla",
+    "about": "Official Tesla Facebook page.",
+    "website": "https://www.tesla.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/9.jpg"
+      }
+    },
+    "followers_count": 20415951,
+    "following_count": 3399,
+    "posts_count": 5346,
+    "verified": true
+  },
+  {
+    "id": "100000000000009",
+    "name": "Adidas Support",
+    "username": "adidas_official",
+    "about": "Customer support Adidas Facebook page.",
+    "website": "https://www.adidas.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/10.jpg"
+      }
+    },
+    "followers_count": 32291006,
+    "following_count": 1092,
+    "posts_count": 685,
+    "verified": false
+  },
+  {
+    "id": "100000000000010",
+    "name": "Nike India",
+    "username": "nike_deals",
+    "about": "Customer support Nike Facebook page.",
+    "website": "https://www.nike.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/11.jpg"
+      }
+    },
+    "followers_count": 18402635,
+    "following_count": 1447,
+    "posts_count": 601,
+    "verified": false
+  },
+  {
+    "id": "100000000000011",
+    "name": "Apple Support",
+    "username": "apple_official",
+    "about": "Customer support Apple Facebook page.",
+    "website": "https://www.apple.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/12.jpg"
+      }
+    },
+    "followers_count": 15310576,
+    "following_count": 204,
+    "posts_count": 6250,
+    "verified": false
+  },
+  {
+    "id": "100000000000012",
+    "name": "Microsoft",
+    "username": "microsoft",
+    "about": "Official Microsoft Facebook page.",
+    "website": "https://www.microsoft.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/13.jpg"
+      }
+    },
+    "followers_count": 43165268,
+    "following_count": 1202,
+    "posts_count": 3098,
+    "verified": true
+  },
+  {
+    "id": "100000000000013",
+    "name": "Samsung India",
+    "username": "the_samsung",
+    "about": "Customer support Samsung Facebook page.",
+    "website": "https://www.samsung.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/14.jpg"
+      }
+    },
+    "followers_count": 38155371,
+    "following_count": 945,
+    "posts_count": 1416,
+    "verified": false
+  },
+  {
+    "id": "100000000000014",
+    "name": "Spotify Deals",
+    "username": "spotify247",
+    "about": "Customer support Spotify Facebook page.",
+    "website": "https://www.spotify.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/15.jpg"
+      }
+    },
+    "followers_count": 44323330,
+    "following_count": 463,
+    "posts_count": 7265,
+    "verified": false
+  },
+  {
+    "id": "100000000000015",
+    "name": "Netflix Support",
+    "username": "netflix247",
+    "about": "Customer support Netflix Facebook page.",
+    "website": "https://www.netflix.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/16.jpg"
+      }
+    },
+    "followers_count": 3288098,
+    "following_count": 1376,
+    "posts_count": 7818,
+    "verified": false
+  },
+  {
+    "id": "100000000000016",
+    "name": "Amazon",
+    "username": "amazon",
+    "about": "Official Amazon Facebook page.",
+    "website": "https://www.amazon.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/17.jpg"
+      }
+    },
+    "followers_count": 37479727,
+    "following_count": 328,
+    "posts_count": 2893,
+    "verified": true
+  },
+  {
+    "id": "100000000000017",
+    "name": "Google India",
+    "username": "google_deals",
+    "about": "Customer support Google Facebook page.",
+    "website": "https://www.google.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/18.jpg"
+      }
+    },
+    "followers_count": 13595771,
+    "following_count": 1527,
+    "posts_count": 9480,
+    "verified": false
+  },
+  {
+    "id": "100000000000018",
+    "name": "Tesla India",
+    "username": "tesla_help",
+    "about": "Customer support Tesla Facebook page.",
+    "website": "https://www.tesla.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/19.jpg"
+      }
+    },
+    "followers_count": 25478059,
+    "following_count": 920,
+    "posts_count": 4073,
+    "verified": false
+  },
+  {
+    "id": "100000000000019",
+    "name": "Adidas India",
+    "username": "official_adidas",
+    "about": "Customer support Adidas Facebook page.",
+    "website": "https://www.adidas.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/20.jpg"
+      }
+    },
+    "followers_count": 44507910,
+    "following_count": 4625,
+    "posts_count": 8003,
+    "verified": false
+  },
+  {
+    "id": "100000000000020",
+    "name": "Nike",
+    "username": "nike",
+    "about": "Official Nike Facebook page.",
+    "website": "https://www.nike.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/21.jpg"
+      }
+    },
+    "followers_count": 47146000,
+    "following_count": 1393,
+    "posts_count": 5669,
+    "verified": true
+  },
+  {
+    "id": "100000000000021",
+    "name": "Apple Deals",
+    "username": "the_apple",
+    "about": "Customer support Apple Facebook page.",
+    "website": "https://www.apple.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/22.jpg"
+      }
+    },
+    "followers_count": 10181754,
+    "following_count": 4026,
+    "posts_count": 5926,
+    "verified": false
+  },
+  {
+    "id": "100000000000022",
+    "name": "Microsoft Support",
+    "username": "microsoft_support",
+    "about": "Customer support Microsoft Facebook page.",
+    "website": "https://www.microsoft.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/23.jpg"
+      }
+    },
+    "followers_count": 10826595,
+    "following_count": 520,
+    "posts_count": 451,
+    "verified": false
+  },
+  {
+    "id": "100000000000023",
+    "name": "Samsung Support",
+    "username": "samsung_india",
+    "about": "Customer support Samsung Facebook page.",
+    "website": "https://www.samsung.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/24.jpg"
+      }
+    },
+    "followers_count": 49313228,
+    "following_count": 3069,
+    "posts_count": 6373,
+    "verified": false
+  },
+  {
+    "id": "100000000000024",
+    "name": "Spotify",
+    "username": "spotify",
+    "about": "Official Spotify Facebook page.",
+    "website": "https://www.spotify.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/25.jpg"
+      }
+    },
+    "followers_count": 2838009,
+    "following_count": 3074,
+    "posts_count": 2487,
+    "verified": true
+  },
+  {
+    "id": "100000000000025",
+    "name": "Netflix Support",
+    "username": "netflix_india",
+    "about": "Customer support Netflix Facebook page.",
+    "website": "https://www.netflix.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/26.jpg"
+      }
+    },
+    "followers_count": 44769813,
+    "following_count": 2026,
+    "posts_count": 1347,
+    "verified": false
+  },
+  {
+    "id": "100000000000026",
+    "name": "Amazon India",
+    "username": "amazon_official",
+    "about": "Customer support Amazon Facebook page.",
+    "website": "https://www.amazon.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/27.jpg"
+      }
+    },
+    "followers_count": 27914331,
+    "following_count": 4736,
+    "posts_count": 8238,
+    "verified": false
+  },
+  {
+    "id": "100000000000027",
+    "name": "Google India",
+    "username": "google",
+    "about": "Customer support Google Facebook page.",
+    "website": "https://www.google.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/28.jpg"
+      }
+    },
+    "followers_count": 45665598,
+    "following_count": 3610,
+    "posts_count": 6640,
+    "verified": false
+  },
+  {
+    "id": "100000000000028",
+    "name": "Tesla",
+    "username": "tesla",
+    "about": "Official Tesla Facebook page.",
+    "website": "https://www.tesla.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/29.jpg"
+      }
+    },
+    "followers_count": 31847045,
+    "following_count": 1600,
+    "posts_count": 9035,
+    "verified": true
+  },
+  {
+    "id": "100000000000029",
+    "name": "Adidas India",
+    "username": "adidas_india",
+    "about": "Customer support Adidas Facebook page.",
+    "website": "https://www.adidas.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/30.jpg"
+      }
+    },
+    "followers_count": 2939161,
+    "following_count": 3320,
+    "posts_count": 9856,
+    "verified": false
+  },
+  {
+    "id": "100000000000030",
+    "name": "Nike Official",
+    "username": "the_nike",
+    "about": "Customer support Nike Facebook page.",
+    "website": "https://www.nike.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/31.jpg"
+      }
+    },
+    "followers_count": 29439739,
+    "following_count": 3259,
+    "posts_count": 4147,
+    "verified": false
+  },
+  {
+    "id": "100000000000031",
+    "name": "Apple Official",
+    "username": "apple_deals",
+    "about": "Customer support Apple Facebook page.",
+    "website": "https://www.apple.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/32.jpg"
+      }
+    },
+    "followers_count": 25003938,
+    "following_count": 2222,
+    "posts_count": 8454,
+    "verified": false
+  },
+  {
+    "id": "100000000000032",
+    "name": "Microsoft",
+    "username": "microsoft",
+    "about": "Official Microsoft Facebook page.",
+    "website": "https://www.microsoft.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/33.jpg"
+      }
+    },
+    "followers_count": 26086757,
+    "following_count": 586,
+    "posts_count": 7179,
+    "verified": true
+  },
+  {
+    "id": "100000000000033",
+    "name": "Samsung India",
+    "username": "samsung_india",
+    "about": "Customer support Samsung Facebook page.",
+    "website": "https://www.samsung.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/34.jpg"
+      }
+    },
+    "followers_count": 5959696,
+    "following_count": 2604,
+    "posts_count": 2634,
+    "verified": false
+  },
+  {
+    "id": "100000000000034",
+    "name": "Spotify India",
+    "username": "spotify_india",
+    "about": "Customer support Spotify Facebook page.",
+    "website": "https://www.spotify.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/35.jpg"
+      }
+    },
+    "followers_count": 898528,
+    "following_count": 4396,
+    "posts_count": 1003,
+    "verified": false
+  },
+  {
+    "id": "100000000000035",
+    "name": "Netflix Official",
+    "username": "the_netflix",
+    "about": "Customer support Netflix Facebook page.",
+    "website": "https://www.netflix.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/36.jpg"
+      }
+    },
+    "followers_count": 9046748,
+    "following_count": 4778,
+    "posts_count": 1956,
+    "verified": false
+  },
+  {
+    "id": "100000000000036",
+    "name": "Amazon",
+    "username": "amazon",
+    "about": "Official Amazon Facebook page.",
+    "website": "https://www.amazon.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/37.jpg"
+      }
+    },
+    "followers_count": 7072235,
+    "following_count": 3526,
+    "posts_count": 8057,
+    "verified": true
+  },
+  {
+    "id": "100000000000037",
+    "name": "Google Support",
+    "username": "google_support",
+    "about": "Customer support Google Facebook page.",
+    "website": "https://www.google.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/38.jpg"
+      }
+    },
+    "followers_count": 17441452,
+    "following_count": 4702,
+    "posts_count": 1428,
+    "verified": false
+  },
+  {
+    "id": "100000000000038",
+    "name": "Tesla Deals",
+    "username": "tesla_help",
+    "about": "Customer support Tesla Facebook page.",
+    "website": "https://www.tesla.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/39.jpg"
+      }
+    },
+    "followers_count": 49292920,
+    "following_count": 2914,
+    "posts_count": 5184,
+    "verified": false
+  },
+  {
+    "id": "100000000000039",
+    "name": "Adidas Official",
+    "username": "ad1das",
+    "about": "Customer support Adidas Facebook page.",
+    "website": "https://www.adidas.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/40.jpg"
+      }
+    },
+    "followers_count": 18080536,
+    "following_count": 4375,
+    "posts_count": 9274,
+    "verified": false
+  },
+  {
+    "id": "100000000000040",
+    "name": "Nike",
+    "username": "nike",
+    "about": "Official Nike Facebook page.",
+    "website": "https://www.nike.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/41.jpg"
+      }
+    },
+    "followers_count": 8442811,
+    "following_count": 528,
+    "posts_count": 2093,
+    "verified": true
+  },
+  {
+    "id": "100000000000041",
+    "name": "Apple Support",
+    "username": "apple_deals",
+    "about": "Customer support Apple Facebook page.",
+    "website": "https://www.apple.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/42.jpg"
+      }
+    },
+    "followers_count": 33340760,
+    "following_count": 1675,
+    "posts_count": 9051,
+    "verified": false
+  },
+  {
+    "id": "100000000000042",
+    "name": "Microsoft Support",
+    "username": "microsoft247",
+    "about": "Customer support Microsoft Facebook page.",
+    "website": "https://www.microsoft.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/43.jpg"
+      }
+    },
+    "followers_count": 31610546,
+    "following_count": 1102,
+    "posts_count": 8164,
+    "verified": false
+  },
+  {
+    "id": "100000000000043",
+    "name": "Samsung Official",
+    "username": "samsung_support",
+    "about": "Customer support Samsung Facebook page.",
+    "website": "https://www.samsung.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/44.jpg"
+      }
+    },
+    "followers_count": 29855279,
+    "following_count": 2079,
+    "posts_count": 6074,
+    "verified": false
+  },
+  {
+    "id": "100000000000044",
+    "name": "Spotify",
+    "username": "spotify",
+    "about": "Official Spotify Facebook page.",
+    "website": "https://www.spotify.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/45.jpg"
+      }
+    },
+    "followers_count": 24360021,
+    "following_count": 4429,
+    "posts_count": 6353,
+    "verified": true
+  },
+  {
+    "id": "100000000000045",
+    "name": "Netflix Official",
+    "username": "netflix247",
+    "about": "Customer support Netflix Facebook page.",
+    "website": "https://www.netflix.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/46.jpg"
+      }
+    },
+    "followers_count": 11427085,
+    "following_count": 2532,
+    "posts_count": 6866,
+    "verified": false
+  },
+  {
+    "id": "100000000000046",
+    "name": "Amazon Official",
+    "username": "official_amazon",
+    "about": "Customer support Amazon Facebook page.",
+    "website": "https://www.amazon.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/47.jpg"
+      }
+    },
+    "followers_count": 874850,
+    "following_count": 403,
+    "posts_count": 6691,
+    "verified": false
+  },
+  {
+    "id": "100000000000047",
+    "name": "Google India",
+    "username": "official_google",
+    "about": "Customer support Google Facebook page.",
+    "website": "https://www.google.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/48.jpg"
+      }
+    },
+    "followers_count": 31126335,
+    "following_count": 1490,
+    "posts_count": 1879,
+    "verified": false
+  },
+  {
+    "id": "100000000000048",
+    "name": "Tesla",
+    "username": "tesla",
+    "about": "Official Tesla Facebook page.",
+    "website": "https://www.tesla.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/49.jpg"
+      }
+    },
+    "followers_count": 33723801,
+    "following_count": 3236,
+    "posts_count": 9320,
+    "verified": true
+  },
+  {
+    "id": "100000000000049",
+    "name": "Adidas Official",
+    "username": "adidas_help",
+    "about": "Customer support Adidas Facebook page.",
+    "website": "https://www.adidas.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "https://example.com/facebook/50.jpg"
+      }
+    },
+    "followers_count": 37308927,
+    "following_count": 871,
+    "posts_count": 4807,
+    "verified": false
+  }
+]
