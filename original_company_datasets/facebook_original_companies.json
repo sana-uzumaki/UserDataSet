@@ -1,0 +1,236 @@
+[
+  {
+    "id": "100000000000000",
+    "name": "Nike",
+    "username": "nike",
+    "about": "Official Nike Facebook page.",
+    "website": "https://www.nike.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "images/image1.png"
+      }
+    },
+    "followers_count": 49560915,
+    "following_count": 1637,
+    "posts_count": 3001,
+    "verified": true
+  },
+  {
+    "id": "100000000000004",
+    "name": "Spotify",
+    "username": "spotify",
+    "about": "Official Spotify Facebook page.",
+    "website": "https://www.spotify.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "images/image5.png"
+      }
+    },
+    "followers_count": 32611615,
+    "following_count": 3056,
+    "posts_count": 8217,
+    "verified": true
+  },
+  {
+    "id": "100000000000008",
+    "name": "Tesla",
+    "username": "tesla",
+    "about": "Official Tesla Facebook page.",
+    "website": "https://www.tesla.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "images/image9.png"
+      }
+    },
+    "followers_count": 20415951,
+    "following_count": 3399,
+    "posts_count": 5346,
+    "verified": true
+  },
+  {
+    "id": "100000000000012",
+    "name": "Microsoft",
+    "username": "microsoft",
+    "about": "Official Microsoft Facebook page.",
+    "website": "https://www.microsoft.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "images/image3.png"
+      }
+    },
+    "followers_count": 43165268,
+    "following_count": 1202,
+    "posts_count": 3098,
+    "verified": true
+  },
+  {
+    "id": "100000000000016",
+    "name": "Amazon",
+    "username": "amazon",
+    "about": "Official Amazon Facebook page.",
+    "website": "https://www.amazon.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "images/image7.png"
+      }
+    },
+    "followers_count": 37479727,
+    "following_count": 328,
+    "posts_count": 2893,
+    "verified": true
+  },
+  {
+    "id": "100000000000020",
+    "name": "Nike",
+    "username": "nike",
+    "about": "Official Nike Facebook page.",
+    "website": "https://www.nike.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "images/image1.png"
+      }
+    },
+    "followers_count": 47146000,
+    "following_count": 1393,
+    "posts_count": 5669,
+    "verified": true
+  },
+  {
+    "id": "100000000000024",
+    "name": "Spotify",
+    "username": "spotify",
+    "about": "Official Spotify Facebook page.",
+    "website": "https://www.spotify.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "images/image5.png"
+      }
+    },
+    "followers_count": 2838009,
+    "following_count": 3074,
+    "posts_count": 2487,
+    "verified": true
+  },
+  {
+    "id": "100000000000028",
+    "name": "Tesla",
+    "username": "tesla",
+    "about": "Official Tesla Facebook page.",
+    "website": "https://www.tesla.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "images/image9.png"
+      }
+    },
+    "followers_count": 31847045,
+    "following_count": 1600,
+    "posts_count": 9035,
+    "verified": true
+  },
+  {
+    "id": "100000000000032",
+    "name": "Microsoft",
+    "username": "microsoft",
+    "about": "Official Microsoft Facebook page.",
+    "website": "https://www.microsoft.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "images/image3.png"
+      }
+    },
+    "followers_count": 26086757,
+    "following_count": 586,
+    "posts_count": 7179,
+    "verified": true
+  },
+  {
+    "id": "100000000000036",
+    "name": "Amazon",
+    "username": "amazon",
+    "about": "Official Amazon Facebook page.",
+    "website": "https://www.amazon.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "images/image7.png"
+      }
+    },
+    "followers_count": 7072235,
+    "following_count": 3526,
+    "posts_count": 8057,
+    "verified": true
+  },
+  {
+    "id": "100000000000040",
+    "name": "Nike",
+    "username": "nike",
+    "about": "Official Nike Facebook page.",
+    "website": "https://www.nike.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "images/image1.png"
+      }
+    },
+    "followers_count": 8442811,
+    "following_count": 528,
+    "posts_count": 2093,
+    "verified": true
+  },
+  {
+    "id": "100000000000044",
+    "name": "Spotify",
+    "username": "spotify",
+    "about": "Official Spotify Facebook page.",
+    "website": "https://www.spotify.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "images/image5.png"
+      }
+    },
+    "followers_count": 24360021,
+    "following_count": 4429,
+    "posts_count": 6353,
+    "verified": true
+  },
+  {
+    "id": "100000000000048",
+    "name": "Tesla",
+    "username": "tesla",
+    "about": "Official Tesla Facebook page.",
+    "website": "https://www.tesla.com",
+    "picture": {
+      "data": {
+        "height": 200,
+        "width": 200,
+        "url": "images/image9.png"
+      }
+    },
+    "followers_count": 33723801,
+    "following_count": 3236,
+    "posts_count": 9320,
+    "verified": true
+  }
+]

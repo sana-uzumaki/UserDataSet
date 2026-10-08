@@ -11,8 +11,8 @@ DATASET_FOLDER = input(
 ).strip()
 
 OUTPUT_FILE = os.path.join(
-    DATASET_FOLDER,
-    "universal_dataset.json"
+    "preprossed_datasets",
+    "universal_platform_dataset.json" if DATASET_FOLDER.startswith("platform") else "universal_company_dataset.json"
 )
 
 
@@ -42,7 +42,7 @@ def detect_platform(filename):
     if "facebook" in name:
         return "facebook"
 
-    if name.startswith("x_") or "twitter" in name:
+    if name.startswith("x") or "twitter" in name:
         return "x"
 
     if "google" in name or "play" in name:

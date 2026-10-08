@@ -9,7 +9,8 @@
         "sku": "NIKE-IOS-001",
         "primaryLocale": "en-US",
         "downloads": 25507,
-        "description": "Nike is a mobile application providing services and features for its users."
+        "description": "Nike is a mobile application providing services and features for its users.",
+        "icon": "images/image1.png"
       },
       "relationships": {
         "appInfos": {
@@ -33,7 +34,8 @@
         "sku": "APPLE-IOS-002",
         "primaryLocale": "en-US",
         "downloads": 95628,
-        "description": "Apple Rewards is a mobile application providing services and features for its users."
+        "description": "Apple Rewards is a mobile application providing services and features for its users.",
+        "icon": "images/image12.png"
       },
       "relationships": {
         "appInfos": {
@@ -57,7 +59,8 @@
         "sku": "MICROSOFT-IOS-003",
         "primaryLocale": "en-US",
         "downloads": 61831,
-        "description": "Microsoft Support is a mobile application providing services and features for its users."
+        "description": "Microsoft Support is a mobile application providing services and features for its users.",
+        "icon": "images/image13.png"
       },
       "relationships": {
         "appInfos": {
@@ -81,7 +84,8 @@
         "sku": "SAMSUNG-IOS-004",
         "primaryLocale": "en-US",
         "downloads": 196722,
-        "description": "Samsung Shopping is a mobile application providing services and features for its users."
+        "description": "Samsung Shopping is a mobile application providing services and features for its users.",
+        "icon": "images/image14.png"
       },
       "relationships": {
         "appInfos": {
@@ -105,7 +109,8 @@
         "sku": "SPOTIFY-IOS-005",
         "primaryLocale": "en-US",
         "downloads": 6152,
-        "description": "Spotify is a mobile application providing services and features for its users."
+        "description": "Spotify is a mobile application providing services and features for its users.",
+        "icon": "images/image5.png"
       },
       "relationships": {
         "appInfos": {
@@ -129,7 +134,8 @@
         "sku": "NETFLIX-IOS-006",
         "primaryLocale": "en-US",
         "downloads": 529573,
-        "description": "Netflix Support is a mobile application providing services and features for its users."
+        "description": "Netflix Support is a mobile application providing services and features for its users.",
+        "icon": "images/image16.png"
       },
       "relationships": {
         "appInfos": {
@@ -153,7 +159,8 @@
         "sku": "AMAZON-IOS-007",
         "primaryLocale": "en-US",
         "downloads": 6709,
-        "description": "Amazon Support is a mobile application providing services and features for its users."
+        "description": "Amazon Support is a mobile application providing services and features for its users.",
+        "icon": "images/image17.png"
       },
       "relationships": {
         "appInfos": {
@@ -177,7 +184,8 @@
         "sku": "GOOGLE-IOS-008",
         "primaryLocale": "en-US",
         "downloads": 3953419,
-        "description": "Google Rewards is a mobile application providing services and features for its users."
+        "description": "Google Rewards is a mobile application providing services and features for its users.",
+        "icon": "images/image18.png"
       },
       "relationships": {
         "appInfos": {
@@ -201,7 +209,8 @@
         "sku": "TESLA-IOS-009",
         "primaryLocale": "en-US",
         "downloads": 696511,
-        "description": "Tesla is a mobile application providing services and features for its users."
+        "description": "Tesla is a mobile application providing services and features for its users.",
+        "icon": "images/image9.png"
       },
       "relationships": {
         "appInfos": {
@@ -225,7 +234,8 @@
         "sku": "ADIDAS-IOS-010",
         "primaryLocale": "en-US",
         "downloads": 9591358,
-        "description": "Adidas Support is a mobile application providing services and features for its users."
+        "description": "Adidas Support is a mobile application providing services and features for its users.",
+        "icon": "images/image20.png"
       },
       "relationships": {
         "appInfos": {
@@ -249,7 +259,8 @@
         "sku": "NIKE-IOS-011",
         "primaryLocale": "en-US",
         "downloads": 402625,
-        "description": "Nike Deals is a mobile application providing services and features for its users."
+        "description": "Nike Deals is a mobile application providing services and features for its users.",
+        "icon": "images/image21.png"
       },
       "relationships": {
         "appInfos": {
@@ -273,7 +284,8 @@
         "sku": "APPLE-IOS-012",
         "primaryLocale": "en-US",
         "downloads": 65206,
-        "description": "Apple Deals is a mobile application providing services and features for its users."
+        "description": "Apple Deals is a mobile application providing services and features for its users.",
+        "icon": "images/image22.png"
       },
       "relationships": {
         "appInfos": {
@@ -297,7 +309,8 @@
         "sku": "MICROSOFT-IOS-013",
         "primaryLocale": "en-US",
         "downloads": 18608589,
-        "description": "Microsoft is a mobile application providing services and features for its users."
+        "description": "Microsoft is a mobile application providing services and features for its users.",
+        "icon": "images/image3.png"
       },
       "relationships": {
         "appInfos": {
@@ -321,7 +334,8 @@
         "sku": "SAMSUNG-IOS-014",
         "primaryLocale": "en-US",
         "downloads": 4112,
-        "description": "Samsung Deals is a mobile application providing services and features for its users."
+        "description": "Samsung Deals is a mobile application providing services and features for its users.",
+        "icon": "images/image24.png"
       },
       "relationships": {
         "appInfos": {
@@ -345,7 +359,8 @@
         "sku": "SPOTIFY-IOS-015",
         "primaryLocale": "en-US",
         "downloads": 3404,
-        "description": "Spotify Shopping is a mobile application providing services and features for its users."
+        "description": "Spotify Shopping is a mobile application providing services and features for its users.",
+        "icon": "images/image25.png"
       },
       "relationships": {
         "appInfos": {
@@ -369,7 +384,8 @@
         "sku": "NETFLIX-IOS-016",
         "primaryLocale": "en-US",
         "downloads": 91168,
-        "description": "Netflix Shopping is a mobile application providing services and features for its users."
+        "description": "Netflix Shopping is a mobile application providing services and features for its users.",
+        "icon": "images/image26.png"
       },
       "relationships": {
         "appInfos": {
@@ -393,7 +409,8 @@
         "sku": "AMAZON-IOS-017",
         "primaryLocale": "en-US",
         "downloads": 335474,
-        "description": "Amazon is a mobile application providing services and features for its users."
+        "description": "Amazon is a mobile application providing services and features for its users.",
+        "icon": "images/image7.png"
       },
       "relationships": {
         "appInfos": {
@@ -417,7 +434,8 @@
         "sku": "GOOGLE-IOS-018",
         "primaryLocale": "en-US",
         "downloads": 70127,
-        "description": "Google Shopping is a mobile application providing services and features for its users."
+        "description": "Google Shopping is a mobile application providing services and features for its users.",
+        "icon": "images/image28.png"
       },
       "relationships": {
         "appInfos": {
@@ -441,7 +459,8 @@
         "sku": "TESLA-IOS-019",
         "primaryLocale": "en-US",
         "downloads": 4197767,
-        "description": "Tesla Deals is a mobile application providing services and features for its users."
+        "description": "Tesla Deals is a mobile application providing services and features for its users.",
+        "icon": "images/image29.png"
       },
       "relationships": {
         "appInfos": {
@@ -465,7 +484,8 @@
         "sku": "ADIDAS-IOS-020",
         "primaryLocale": "en-US",
         "downloads": 474195,
-        "description": "Adidas Shopping is a mobile application providing services and features for its users."
+        "description": "Adidas Shopping is a mobile application providing services and features for its users.",
+        "icon": "images/image30.png"
       },
       "relationships": {
         "appInfos": {
@@ -489,7 +509,8 @@
         "sku": "NIKE-IOS-021",
         "primaryLocale": "en-US",
         "downloads": 6160,
-        "description": "Nike is a mobile application providing services and features for its users."
+        "description": "Nike is a mobile application providing services and features for its users.",
+        "icon": "images/image1.png"
       },
       "relationships": {
         "appInfos": {
@@ -513,7 +534,8 @@
         "sku": "APPLE-IOS-022",
         "primaryLocale": "en-US",
         "downloads": 417680,
-        "description": "Apple Shopping is a mobile application providing services and features for its users."
+        "description": "Apple Shopping is a mobile application providing services and features for its users.",
+        "icon": "images/image12.png"
       },
       "relationships": {
         "appInfos": {
@@ -537,7 +559,8 @@
         "sku": "MICROSOFT-IOS-023",
         "primaryLocale": "en-US",
         "downloads": 36640406,
-        "description": "Microsoft Deals is a mobile application providing services and features for its users."
+        "description": "Microsoft Deals is a mobile application providing services and features for its users.",
+        "icon": "images/image13.png"
       },
       "relationships": {
         "appInfos": {
@@ -561,7 +584,8 @@
         "sku": "SAMSUNG-IOS-024",
         "primaryLocale": "en-US",
         "downloads": 66852,
-        "description": "Samsung Deals is a mobile application providing services and features for its users."
+        "description": "Samsung Deals is a mobile application providing services and features for its users.",
+        "icon": "images/image14.png"
       },
       "relationships": {
         "appInfos": {
@@ -585,7 +609,8 @@
         "sku": "SPOTIFY-IOS-025",
         "primaryLocale": "en-US",
         "downloads": 25732,
-        "description": "Spotify is a mobile application providing services and features for its users."
+        "description": "Spotify is a mobile application providing services and features for its users.",
+        "icon": "images/image5.png"
       },
       "relationships": {
         "appInfos": {
@@ -609,7 +634,8 @@
         "sku": "NETFLIX-IOS-026",
         "primaryLocale": "en-US",
         "downloads": 33175,
-        "description": "Netflix Deals is a mobile application providing services and features for its users."
+        "description": "Netflix Deals is a mobile application providing services and features for its users.",
+        "icon": "images/image16.png"
       },
       "relationships": {
         "appInfos": {
@@ -633,7 +659,8 @@
         "sku": "AMAZON-IOS-027",
         "primaryLocale": "en-US",
         "downloads": 12430082,
-        "description": "Amazon Support is a mobile application providing services and features for its users."
+        "description": "Amazon Support is a mobile application providing services and features for its users.",
+        "icon": "images/image17.png"
       },
       "relationships": {
         "appInfos": {
@@ -657,7 +684,8 @@
         "sku": "GOOGLE-IOS-028",
         "primaryLocale": "en-US",
         "downloads": 4057147,
-        "description": "Google Deals is a mobile application providing services and features for its users."
+        "description": "Google Deals is a mobile application providing services and features for its users.",
+        "icon": "images/image18.png"
       },
       "relationships": {
         "appInfos": {
@@ -681,7 +709,8 @@
         "sku": "TESLA-IOS-029",
         "primaryLocale": "en-US",
         "downloads": 582404,
-        "description": "Tesla is a mobile application providing services and features for its users."
+        "description": "Tesla is a mobile application providing services and features for its users.",
+        "icon": "images/image9.png"
       },
       "relationships": {
         "appInfos": {
@@ -705,7 +734,8 @@
         "sku": "ADIDAS-IOS-030",
         "primaryLocale": "en-US",
         "downloads": 31307325,
-        "description": "Adidas Rewards is a mobile application providing services and features for its users."
+        "description": "Adidas Rewards is a mobile application providing services and features for its users.",
+        "icon": "images/image20.png"
       },
       "relationships": {
         "appInfos": {
@@ -729,7 +759,8 @@
         "sku": "NIKE-IOS-031",
         "primaryLocale": "en-US",
         "downloads": 5438,
-        "description": "Nike Rewards is a mobile application providing services and features for its users."
+        "description": "Nike Rewards is a mobile application providing services and features for its users.",
+        "icon": "images/image21.png"
       },
       "relationships": {
         "appInfos": {
@@ -753,7 +784,8 @@
         "sku": "APPLE-IOS-032",
         "primaryLocale": "en-US",
         "downloads": 55226,
-        "description": "Apple Support is a mobile application providing services and features for its users."
+        "description": "Apple Support is a mobile application providing services and features for its users.",
+        "icon": "images/image22.png"
       },
       "relationships": {
         "appInfos": {
@@ -777,7 +809,8 @@
         "sku": "MICROSOFT-IOS-033",
         "primaryLocale": "en-US",
         "downloads": 1916,
-        "description": "Microsoft is a mobile application providing services and features for its users."
+        "description": "Microsoft is a mobile application providing services and features for its users.",
+        "icon": "images/image3.png"
       },
       "relationships": {
         "appInfos": {
@@ -801,7 +834,8 @@
         "sku": "SAMSUNG-IOS-034",
         "primaryLocale": "en-US",
         "downloads": 507362,
-        "description": "Samsung Rewards is a mobile application providing services and features for its users."
+        "description": "Samsung Rewards is a mobile application providing services and features for its users.",
+        "icon": "images/image24.png"
       },
       "relationships": {
         "appInfos": {
@@ -825,7 +859,8 @@
         "sku": "SPOTIFY-IOS-035",
         "primaryLocale": "en-US",
         "downloads": 549,
-        "description": "Spotify Deals is a mobile application providing services and features for its users."
+        "description": "Spotify Deals is a mobile application providing services and features for its users.",
+        "icon": "images/image25.png"
       },
       "relationships": {
         "appInfos": {
@@ -849,7 +884,8 @@
         "sku": "NETFLIX-IOS-036",
         "primaryLocale": "en-US",
         "downloads": 12757992,
-        "description": "Netflix Shopping is a mobile application providing services and features for its users."
+        "description": "Netflix Shopping is a mobile application providing services and features for its users.",
+        "icon": "images/image26.png"
       },
       "relationships": {
         "appInfos": {
@@ -873,7 +909,8 @@
         "sku": "AMAZON-IOS-037",
         "primaryLocale": "en-US",
         "downloads": 9867,
-        "description": "Amazon is a mobile application providing services and features for its users."
+        "description": "Amazon is a mobile application providing services and features for its users.",
+        "icon": "images/image7.png"
       },
       "relationships": {
         "appInfos": {
@@ -897,7 +934,8 @@
         "sku": "GOOGLE-IOS-038",
         "primaryLocale": "en-US",
         "downloads": 9719,
-        "description": "Google Support is a mobile application providing services and features for its users."
+        "description": "Google Support is a mobile application providing services and features for its users.",
+        "icon": "images/image28.png"
       },
       "relationships": {
         "appInfos": {
@@ -921,7 +959,8 @@
         "sku": "TESLA-IOS-039",
         "primaryLocale": "en-US",
         "downloads": 120849,
-        "description": "Tesla Shopping is a mobile application providing services and features for its users."
+        "description": "Tesla Shopping is a mobile application providing services and features for its users.",
+        "icon": "images/image29.png"
       },
       "relationships": {
         "appInfos": {
@@ -945,7 +984,8 @@
         "sku": "ADIDAS-IOS-040",
         "primaryLocale": "en-US",
         "downloads": 52288,
-        "description": "Adidas Deals is a mobile application providing services and features for its users."
+        "description": "Adidas Deals is a mobile application providing services and features for its users.",
+        "icon": "images/image30.png"
       },
       "relationships": {
         "appInfos": {
@@ -969,7 +1009,8 @@
         "sku": "NIKE-IOS-041",
         "primaryLocale": "en-US",
         "downloads": 53745,
-        "description": "Nike is a mobile application providing services and features for its users."
+        "description": "Nike is a mobile application providing services and features for its users.",
+        "icon": "images/image1.png"
       },
       "relationships": {
         "appInfos": {
@@ -993,7 +1034,8 @@
         "sku": "APPLE-IOS-042",
         "primaryLocale": "en-US",
         "downloads": 218447,
-        "description": "Apple Rewards is a mobile application providing services and features for its users."
+        "description": "Apple Rewards is a mobile application providing services and features for its users.",
+        "icon": "images/image12.png"
       },
       "relationships": {
         "appInfos": {
@@ -1017,7 +1059,8 @@
         "sku": "MICROSOFT-IOS-043",
         "primaryLocale": "en-US",
         "downloads": 25255,
-        "description": "Microsoft Support is a mobile application providing services and features for its users."
+        "description": "Microsoft Support is a mobile application providing services and features for its users.",
+        "icon": "images/image13.png"
       },
       "relationships": {
         "appInfos": {
@@ -1041,7 +1084,8 @@
         "sku": "SAMSUNG-IOS-044",
         "primaryLocale": "en-US",
         "downloads": 6566,
-        "description": "Samsung Deals is a mobile application providing services and features for its users."
+        "description": "Samsung Deals is a mobile application providing services and features for its users.",
+        "icon": "images/image14.png"
       },
       "relationships": {
         "appInfos": {
@@ -1065,7 +1109,8 @@
         "sku": "SPOTIFY-IOS-045",
         "primaryLocale": "en-US",
         "downloads": 340121,
-        "description": "Spotify is a mobile application providing services and features for its users."
+        "description": "Spotify is a mobile application providing services and features for its users.",
+        "icon": "images/image5.png"
       },
       "relationships": {
         "appInfos": {
@@ -1089,7 +1134,8 @@
         "sku": "NETFLIX-IOS-046",
         "primaryLocale": "en-US",
         "downloads": 14735850,
-        "description": "Netflix Shopping is a mobile application providing services and features for its users."
+        "description": "Netflix Shopping is a mobile application providing services and features for its users.",
+        "icon": "images/image16.png"
       },
       "relationships": {
         "appInfos": {
@@ -1113,7 +1159,8 @@
         "sku": "AMAZON-IOS-047",
         "primaryLocale": "en-US",
         "downloads": 3153309,
-        "description": "Amazon Rewards is a mobile application providing services and features for its users."
+        "description": "Amazon Rewards is a mobile application providing services and features for its users.",
+        "icon": "images/image17.png"
       },
       "relationships": {
         "appInfos": {
@@ -1137,7 +1184,8 @@
         "sku": "GOOGLE-IOS-048",
         "primaryLocale": "en-US",
         "downloads": 20744697,
-        "description": "Google Shopping is a mobile application providing services and features for its users."
+        "description": "Google Shopping is a mobile application providing services and features for its users.",
+        "icon": "images/image18.png"
       },
       "relationships": {
         "appInfos": {
@@ -1161,7 +1209,8 @@
         "sku": "TESLA-IOS-049",
         "primaryLocale": "en-US",
         "downloads": 1614,
-        "description": "Tesla is a mobile application providing services and features for its users."
+        "description": "Tesla is a mobile application providing services and features for its users.",
+        "icon": "images/image9.png"
       },
       "relationships": {
         "appInfos": {
@@ -1185,7 +1234,8 @@
         "sku": "ADIDAS-IOS-050",
         "primaryLocale": "en-US",
         "downloads": 31884486,
-        "description": "Adidas Deals is a mobile application providing services and features for its users."
+        "description": "Adidas Deals is a mobile application providing services and features for its users.",
+        "icon": "images/image20.png"
       },
       "relationships": {
         "appInfos": {
