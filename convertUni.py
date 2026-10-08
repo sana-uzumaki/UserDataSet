@@ -98,10 +98,11 @@ def normalize_social(platform, item):
 
         # Media
         "image_url": first_value(
-            item,
-            "profile_picture_url",
-            "profile_image_url"
-        ),
+    	    item,
+    	    "profile_picture_url",
+    	    "profile_image_url",
+    	    default=item.get("picture", {}).get("data", {}).get("url")
+	),
 
         # Website
         "website": first_value(
@@ -221,7 +222,7 @@ def normalize_app(platform, item):
             "developer": None,
 
             # Media
-            "image_url": None,
+            "image_url": attributes.get("icon"),
 
             # Statistics
             "downloads_count": downloads,
